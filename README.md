@@ -35,16 +35,25 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 
 |名称|推荐理由|授权方式|相关链接|
 |---|---|---|---|
-|[AutoIt][32]|编程友好的键鼠屏自动化软件|免费 + 开源|[评测][33]|
-[*返回目录*][34]
+|[Cmder][32]|为 CMD / PowerShell 提供绝佳用户体验，Windows 开发必备|免费 + 开源|[介绍][33]|
+|[ConEmu][34]|另一款极具特色的 CMD / PowerShell 增强工具|免费 + 开源|[评测][35]|
+|[Git for Windows (msysgit)][36]|一键安装，同时获得 Git 和 Bash|免费 + 开源|[介绍][37]|
+|[SourceTree][38]|跨平台图形化界面的 Git 工具，提升效率的好帮手|免费|[教程][39]|
+|[Xshell][40]|非常优秀的终端软件，连接服务器必备|个人免费 + 商用付费|[介绍][41]|
+|[Visual Studio Code][42]|微软出品的轻量级代码编辑器，近年新兴编辑器中最优秀的一款|免费 + 开源|[评测1][43] \| [评测2][44]|
+|[Fiddler][45]|最好用的 HTTP 抓包、篡改工具|免费|[介绍][46]|
+|[FlashFXP][47]|综合而言功能和易用性最佳的 FTP 应用|试用 + 付费|[介绍][48]|
+|[Cygwin][49]|提供更加接近 Unix 的终端环境|免费 + 开源|[介绍][50]|
+|[AutoIt][51]|编程友好的键鼠屏自动化软件|免费 + 开源|[评测][52]|
+[*返回目录*][53]
 
 # 3. 设计类
 
-[*返回目录*][35]
+[*返回目录*][54]
 
 # 4. 娱乐类
 
-[*返回目录*][36]
+[*返回目录*][55]
 
 
   [1]: http://i.imgur.com/waCNjA2.png
@@ -78,8 +87,27 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
   [29]: https://www.piriform.com/ccleaner/download
   [30]: http://www.iplaysoft.com/ccleaner.html
   [31]: #%E7%9B%AE%E5%BD%95
-  [32]: https://www.autoitscript.com/
-  [33]: http://www.diggerplus.org/archives/1952
-  [34]: #%E7%9B%AE%E5%BD%95
-  [35]: #%E7%9B%AE%E5%BD%95
-  [36]: #%E7%9B%AE%E5%BD%95
+  [32]: http://cmder.net/
+  [33]: http://www.jeffjade.com/2016/01/13/2016-01-13-windows-software-cmder/
+  [34]: https://sourceforge.net/projects/conemu/
+  [35]: https://zhuanlan.zhihu.com/p/20947499
+  [36]: https://git-for-windows.github.io/
+  [37]: http://www.worldhello.net/gotgit/01-meet-git/060-install-on-windows-msysgit.html
+  [38]: https://www.sourcetreeapp.com/
+  [39]: http://blog.csdn.net/jackjia2015/article/details/51140552
+  [40]: https://www.netsarang.com/products/xsh_overview.html
+  [41]: http://www.portablesoft.org/xshell/
+  [42]: https://code.visualstudio.com/
+  [43]: https://segmentfault.com/a/1190000002721112
+  [44]: http://www.jianshu.com/p/2ae767137725
+  [45]: http://www.telerik.com/fiddler
+  [46]: http://mccxj.github.io/blog/20130531_introduce-to-fiddler.html
+  [47]: https://www.flashfxp.com/
+  [48]: http://baike.baidu.com/item/FlashFXP
+  [49]: https://www.cygwin.com/
+  [50]: http://blog.csdn.net/msnlogo/article/details/4063439
+  [51]: https://www.autoitscript.com/
+  [52]: http://www.diggerplus.org/archives/1952
+  [53]: #%E7%9B%AE%E5%BD%95
+  [54]: #%E7%9B%AE%E5%BD%95
+  [55]: #%E7%9B%AE%E5%BD%95

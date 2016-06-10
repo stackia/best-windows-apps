@@ -36,8 +36,8 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
   [2]: https://www.microsoft.com/zh-cn/windows
   [3]: https://github.com/hzlzh
   [4]: https://github.com/hzlzh/Best-App
-  [5]: https://github.com/stackia/best-windows-apps/tree/master#1-%E6%95%88%E7%8E%87%E7%B1%BB
-  [6]: https://github.com/stackia/best-windows-apps/tree/master#2-%E5%BC%80%E5%8F%91%E7%B1%BB
-  [7]: https://github.com/stackia/best-windows-apps/tree/master#3-%E8%AE%BE%E8%AE%A1%E7%B1%BB
-  [8]: https://github.com/stackia/best-windows-apps/tree/master#4-%E5%A8%B1%E4%B9%90%E7%B1%BB
-  [9]: https://github.com/stackia/best-windows-apps/tree/master#%E7%9B%AE%E5%BD%95
+  [5]: #1-%E6%95%88%E7%8E%87%E7%B1%BB
+  [6]: #2-%E5%BC%80%E5%8F%91%E7%B1%BB
+  [7]: #3-%E8%AE%BE%E8%AE%A1%E7%B1%BB
+  [8]: #4-%E5%A8%B1%E4%B9%90%E7%B1%BB
+  [9]: #%E7%9B%AE%E5%BD%95

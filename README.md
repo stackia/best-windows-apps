@@ -35,6 +35,7 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 |[AutoHotKey][26]|用户友好、简单易用的键鼠屏自动化软件|免费 + 开源|[介绍][27] \| [中文教程][28]|
 |[弹窗广告拦截器][29]|是时候与 QQ 弹窗广告说再见了|免费|[介绍][30]|
 |[CCleaner][31]|如果你有系统洁癖，那一定要选择一款干净、良心、老牌的清洁软件|免费 Lite + 付费 Pro|[评测][32]|
+|[Bulk Rename Utility][74]|Windows下强大的文件命名软件，支持正则、JS及其他自定义功能|个人免费 + 商用付费|[简易教程][75]|
 
 [*返回目录*][33]
 
@@ -149,3 +150,5 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
   [71]: https://www.microsoft.com/zh-cn/store/apps/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90uwp/9nblggh6g0jf
   [72]: http://zhihu.com/question/38409442/answer/76287469
   [73]: #%E7%9B%AE%E5%BD%95
+  [74]: http://www.bulkrenameutility.co.uk/
+  [75]: http://www.gezila.com/tutorials/58882_all.html

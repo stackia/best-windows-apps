@@ -33,48 +33,51 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 |[Wunderlist][21]|在 Windows 上用户体验最佳的一款全平台 GTD 应用|免费 Lite + 订阅 Pro|[评测][22]|
 |[Total Commander][23]|老牌、功能异常强大的文件管理增强软件|试用 + 付费|[评测][24] \| [中文教程][25]|
 |[AutoHotKey][26]|用户友好、简单易用的键鼠屏自动化软件|免费 + 开源|[介绍][27] \| [中文教程][28]|
-|[弹窗广告拦截器][29]|是时候与 QQ 弹窗广告说再见了|免费|[介绍][30]|
-|[CCleaner][31]|如果你有系统洁癖，那一定要选择一款干净、良心、老牌的清洁软件|免费 Lite + 付费 Pro|[评测][32]|
-|[Bulk Rename Utility][74]|Windows下强大的文件命名软件，支持正则、JS及其他自定义功能|个人免费 + 商用付费|[简易教程][75]|
+|[MyerList][29]|一款极简的 Todo App，没有任何多余的功能|免费|[评测][30]|
+|[弹窗广告拦截器][31]|是时候与 QQ 弹窗广告说再见了|免费|[介绍][32]|
+|[CCleaner][33]|如果你有系统洁癖，那一定要选择一款干净、良心、老牌的清洁软件|免费 Lite + 付费 Pro|[评测][34]|
+|[Bulk Rename Utility][35]|Windows下强大的文件命名软件，支持正则、JS及其他自定义功能|个人免费 + 商用付费|[简易教程][36]|
 
-[*返回目录*][33]
+[*返回目录*][37]
 
 # 2. 开发类
 
 |名称|推荐理由|授权方式|相关链接|
 |---|---|---|---|
-|[Cmder][34]|为 CMD / PowerShell 提供绝佳用户体验，Windows 开发必备|免费 + 开源|[介绍][35]|
-|[ConEmu][36]|另一款极具特色的 CMD / PowerShell 增强工具|免费 + 开源|[评测][37]|
-|[BestTrace][38]|集 ping、traceroute、IP归属地、地图于一体的网络测试工具|免费|[介绍][39]|
-|[Git for Windows (msysgit)][40]|一键安装，同时获得 Git 和 Bash|免费 + 开源|[介绍][41]|
-|[SourceTree][42]|跨平台图形化界面的 Git 工具，提升效率的好帮手|免费|[教程][43]|
-|[Xshell][44]|非常优秀的终端软件，连接服务器必备|个人免费 + 商用付费|[介绍][45]|
-|[Visual Studio Code][46]|微软出品的轻量级代码编辑器，近年新兴编辑器中最优秀的一款|免费 + 开源|[评测1][47] \| [评测2][48]|
-|[Fiddler][49]|最好用的 HTTP 抓包、篡改工具|免费|[介绍][50]|
-|[FlashFXP][51]|综合而言功能和易用性最佳的 FTP 应用|试用 + 付费|[介绍][52]|
-|[Cygwin][53]|提供更加接近 Unix 的终端环境|免费 + 开源|[介绍][54]|
-|[PC Hunter][55]|内核级系统信息分析工具|免费|[介绍][56]|
-|[AutoIt][57]|编程友好的键鼠屏自动化软件|免费 + 开源|[评测][58]|
-|[Gpg4win][59]|Windows 平台上最好用的 GPG 套件，包含 GUI|免费 + 开源|[介绍][60]|
+|[Cmder][38]|为 CMD / PowerShell 提供绝佳用户体验，Windows 开发必备|免费 + 开源|[介绍][39]|
+|[ConEmu][40]|另一款极具特色的 CMD / PowerShell 增强工具|免费 + 开源|[评测][41]|
+|[BestTrace][42]|集 ping、traceroute、IP归属地、地图于一体的网络测试工具|免费|[介绍][43]|
+|[Git for Windows (msysgit)][44]|一键安装，同时获得 Git 和 Bash|免费 + 开源|[介绍][45]|
+|[SourceTree][46]|跨平台图形化界面的 Git 工具，提升效率的好帮手|免费|[教程][47]|
+|[Xshell][48]|非常优秀的终端软件，连接服务器必备|个人免费 + 商用付费|[介绍][49]|
+|[JetBrains 系列 IDE][50]|无论你处于什么技术栈，JetBrains 系列 IDE 几乎都是必不可少的|订阅 + 开源|[讨论][51]
+|[Visual Studio Code][52]|微软出品的轻量级代码编辑器，近年新兴编辑器中最优秀的一款|免费 + 开源|[评测1][53] \| [评测2][54]|
+|[Fiddler][55]|最好用的 HTTP 抓包、篡改工具|免费|[介绍][56]|
+|[FlashFXP][57]|综合而言功能和易用性最佳的 FTP 应用|试用 + 付费|[介绍][58]|
+|[Cygwin][59]|提供更加接近 Unix 的终端环境|免费 + 开源|[介绍][60]|
+|[PC Hunter][61]|内核级系统信息分析工具|免费|[介绍][62]|
+|[AutoIt][63]|编程友好的键鼠屏自动化软件|免费 + 开源|[评测][64]|
+|[Gpg4win][65]|Windows 平台上最好用的 GPG 套件，包含 GUI|免费 + 开源|[介绍][66]|
 
-[*返回目录*][61]
+[*返回目录*][67]
 
 # 3. 设计类
 
 *（整理中）*
 
-[*返回目录*][62]
+[*返回目录*][68]
 
 # 4. 娱乐类
 
 |名称|推荐理由|授权方式|相关链接|
 |---|---|---|---|
-|[Steam][63]|PC 上无可替代的数字游戏发行平台|[![Steam Discount][64]][65]|[介绍][66]|
-|[Internet Download Manager][67]|这年头你已经很难找到一款老实的下载软件了|试用 + 订阅|[评测][68]|
-|[PotPlayer][69]|一款用心在做的全能视频播放器|免费|[介绍][70]|
-|[网易云音乐 UWP][71]|国产良心音乐应用，为数不多的 UWP 超越桌面客户端的一款产品|免费|[评测][72]|
+|[Steam][69]|PC 上无可替代的数字游戏发行平台|[![Steam Discount][70]][71]|[介绍][72]|
+|[Internet Download Manager][73]|这年头你已经很难找到一款老实的下载软件了|试用 + 订阅|[评测][74]|
+|[PotPlayer][75]|一款用心在做的全能视频播放器|免费|[介绍][76]|
+|[网易云音乐 UWP][77]|国产良心音乐应用，为数不多的 UWP 超越桌面客户端的一款产品|免费|[评测][78]|
+|[HaloRadio][79]|一个小清新的豆瓣每日私人歌单客户端|免费|[简介][80]|
 
-[*返回目录*][73]
+[*返回目录*][81]
 
 
   [1]: http://i.imgur.com/waCNjA2.png
@@ -105,50 +108,56 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
   [26]: https://autohotkey.com/
   [27]: https://zh.wikipedia.org/wiki/AutoHotkey
   [28]: https://autohotkey.com/boards/viewtopic.php?t=1099
-  [29]: https://www.zhihu.com/question/24265718/answer/27226434
-  [30]: http://www.appinn.com/close-a-d-s/
-  [31]: https://www.piriform.com/ccleaner/download
-  [32]: http://www.iplaysoft.com/ccleaner.html
-  [33]: #%E7%9B%AE%E5%BD%95
-  [34]: http://cmder.net/
-  [35]: http://www.jeffjade.com/2016/01/13/2016-01-13-windows-software-cmder/
-  [36]: https://sourceforge.net/projects/conemu/
-  [37]: https://zhuanlan.zhihu.com/p/20947499
-  [38]: http://www.ipip.net/download.html
-  [39]: http://blog.sina.com.cn/s/blog_5f5a3dff0102wdf4.html
-  [40]: https://git-for-windows.github.io/
-  [41]: http://www.worldhello.net/gotgit/01-meet-git/060-install-on-windows-msysgit.html
-  [42]: https://www.sourcetreeapp.com/
-  [43]: http://blog.csdn.net/jackjia2015/article/details/51140552
-  [44]: https://www.netsarang.com/products/xsh_overview.html
-  [45]: http://www.portablesoft.org/xshell/
-  [46]: https://code.visualstudio.com/
-  [47]: https://segmentfault.com/a/1190000002721112
-  [48]: http://www.jianshu.com/p/2ae767137725
-  [49]: http://www.telerik.com/fiddler
-  [50]: http://mccxj.github.io/blog/20130531_introduce-to-fiddler.html
-  [51]: https://www.flashfxp.com/
-  [52]: http://baike.baidu.com/item/FlashFXP
-  [53]: https://www.cygwin.com/
-  [54]: http://blog.csdn.net/msnlogo/article/details/4063439
-  [55]: http://www.xuetr.com/
-  [56]: http://baike.baidu.com/view/10024019.htm
-  [57]: https://www.autoitscript.com/
-  [58]: http://www.diggerplus.org/archives/1952
-  [59]: https://www.gpg4win.org/
-  [60]: http://terrychen.info/encryption-gpg4win/
-  [61]: #%E7%9B%AE%E5%BD%95
-  [62]: #%E7%9B%AE%E5%BD%95
-  [63]: http://store.steampowered.com/
-  [64]: http://i.imgur.com/Ey5B8RU.png
-  [65]: https://www.google.com/search?q=steam%20memes&tbm=isch
-  [66]: https://zh.wikipedia.org/wiki/Steam
-  [67]: https://www.internetdownloadmanager.com/
-  [68]: https://xbeta.info/idm.htm
-  [69]: https://potplayer.daum.net/
-  [70]: http://baike.baidu.com/item/PotPlayer
-  [71]: https://www.microsoft.com/zh-cn/store/apps/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90uwp/9nblggh6g0jf
-  [72]: http://zhihu.com/question/38409442/answer/76287469
-  [73]: #%E7%9B%AE%E5%BD%95
-  [74]: http://www.bulkrenameutility.co.uk/
-  [75]: http://www.gezila.com/tutorials/58882_all.html
+  [29]: https://www.microsoft.com/zh-cn/store/apps/myerlist/9nblggh11k1m
+  [30]: http://www.chinaz.com/mobile/2016/0226/508096.shtml
+  [31]: https://www.zhihu.com/question/24265718/answer/27226434
+  [32]: http://www.appinn.com/close-a-d-s/
+  [33]: https://www.piriform.com/ccleaner/download
+  [34]: http://www.iplaysoft.com/ccleaner.html
+  [35]: http://www.bulkrenameutility.co.uk/
+  [36]: http://www.gezila.com/tutorials/58882_all.html
+  [37]: #%E7%9B%AE%E5%BD%95
+  [38]: http://cmder.net/
+  [39]: http://www.jeffjade.com/2016/01/13/2016-01-13-windows-software-cmder/
+  [40]: https://sourceforge.net/projects/conemu/
+  [41]: https://zhuanlan.zhihu.com/p/20947499
+  [42]: http://www.ipip.net/download.html
+  [43]: http://blog.sina.com.cn/s/blog_5f5a3dff0102wdf4.html
+  [44]: https://git-for-windows.github.io/
+  [45]: http://www.worldhello.net/gotgit/01-meet-git/060-install-on-windows-msysgit.html
+  [46]: https://www.sourcetreeapp.com/
+  [47]: http://blog.csdn.net/jackjia2015/article/details/51140552
+  [48]: https://www.netsarang.com/products/xsh_overview.html
+  [49]: http://www.portablesoft.org/xshell/
+  [50]: https://www.jetbrains.com/products.html
+  [51]: https://www.v2ex.com/t/86322
+  [52]: https://code.visualstudio.com/
+  [53]: https://segmentfault.com/a/1190000002721112
+  [54]: http://www.jianshu.com/p/2ae767137725
+  [55]: http://www.telerik.com/fiddler
+  [56]: http://mccxj.github.io/blog/20130531_introduce-to-fiddler.html
+  [57]: https://www.flashfxp.com/
+  [58]: http://baike.baidu.com/item/FlashFXP
+  [59]: https://www.cygwin.com/
+  [60]: http://blog.csdn.net/msnlogo/article/details/4063439
+  [61]: http://www.xuetr.com/
+  [62]: http://baike.baidu.com/view/10024019.htm
+  [63]: https://www.autoitscript.com/
+  [64]: http://www.diggerplus.org/archives/1952
+  [65]: https://www.gpg4win.org/
+  [66]: http://terrychen.info/encryption-gpg4win/
+  [67]: #%E7%9B%AE%E5%BD%95
+  [68]: #%E7%9B%AE%E5%BD%95
+  [69]: http://store.steampowered.com/
+  [70]: http://i.imgur.com/Ey5B8RU.png
+  [71]: https://www.google.com/search?q=steam%20memes&tbm=isch
+  [72]: https://zh.wikipedia.org/wiki/Steam
+  [73]: https://www.internetdownloadmanager.com/
+  [74]: https://xbeta.info/idm.htm
+  [75]: https://potplayer.daum.net/
+  [76]: http://baike.baidu.com/item/PotPlayer
+  [77]: https://www.microsoft.com/zh-cn/store/apps/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90uwp/9nblggh6g0jf
+  [78]: http://zhihu.com/question/38409442/answer/76287469
+  [79]: http://www.icyarrow.com/labs/haloradio/
+  [80]: https://www.v2ex.com/t/282377
+  [81]: #%E7%9B%AE%E5%BD%95

@@ -54,13 +54,13 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 |[ConEmu][53]|另一款极具特色的 CMD / PowerShell 增强工具|免费 + 开源|[评测][54]|
 |[BestTrace][55]|集 ping、traceroute、IP 归属地、地图于一体的网络测试工具|免费|[介绍][56]|
 |[Git for Windows (msysgit)][57]|一键安装，同时获得 Git 和 Bash|免费 + 开源|[介绍][58]|
+|[Babun][72]|Cygwin + Git + Zsh + Mintty 完美整合，开箱即用，轻松打造类 Unix 开发环境|免费 + 开源|[介绍][73]|
 |[SourceTree][59]|跨平台图形化界面的 Git 工具，提升效率的好帮手|免费|[教程][60]|
 |[Xshell][61]|非常优秀的终端软件，连接服务器必备|个人免费 + 商用付费|[介绍][62]|
 |[JetBrains 系列 IDE][63]|无论你处于什么技术栈，JetBrains 系列 IDE 几乎都是必不可少的|试用 + 订阅 + 开源|[讨论][64]
 |[Visual Studio Code][65]|微软出品的轻量级代码编辑器，近年新兴编辑器中最优秀的一款|免费 + 开源|[评测1][66] \| [评测2][67]|
 |[Fiddler][68]|特别好用的 HTTP 抓包、篡改工具|免费|[介绍][69]|
 |[FlashFXP][70]|功能强度大又易用的 FTP 应用|试用 + 付费|[介绍][71]|
-|[Cygwin][72]|提供更加接近 Unix 的终端环境|免费 + 开源|[介绍][73]|
 |[PC Hunter][74]|内核级系统信息分析工具|免费|[介绍][75]|
 |[AutoIt][76]|编程友好的键鼠屏自动化软件|免费 + 开源|[评测][77]|
 |[Gpg4win][78]|Windows 平台上的完整 GPG 套件，包含 GUI|免费 + 开源|[介绍][79]|
@@ -161,8 +161,8 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
   [69]: http://mccxj.github.io/blog/20130531_introduce-to-fiddler.html
   [70]: https://www.flashfxp.com/
   [71]: http://baike.baidu.com/item/FlashFXP
-  [72]: https://www.cygwin.com/
-  [73]: http://blog.csdn.net/msnlogo/article/details/4063439
+  [72]: http://babun.github.io/
+  [73]: http://www.open-open.com/lib/view/open1428543585104.html
   [74]: http://www.xuetr.com/
   [75]: http://baike.baidu.com/view/10024019.htm
   [76]: https://www.autoitscript.com/

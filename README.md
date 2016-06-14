@@ -38,15 +38,17 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 |[MarkdownPad][27]|全能 Markdown 编辑器|免费 Lite + 付费 Pro|[评测][28]|
 |[Cmd Markdown][29]|跨平台优秀 Markdown 编辑器，本文即用其所写|免费软件 + 付费服务|[简介][30]|
 |[AutoHotKey][31]|用户友好、简单易用的键鼠屏自动化软件|免费 + 开源|[介绍][32] \| [中文教程][33]|
-|[Wunderlist][34]|在 Windows 上体验一流的一款全平台 GTD 应用|免费 Lite + 订阅 Pro|[评测][35]|
-|[MyerList (UWP)][36]|一款极简的 Todo App，没有任何多余的功能|免费|[评测][37]|
-|[XMind][38]|优秀的思维导图应用|免费 Lite + 付费 Pro|[评测][39]|
-|[MindManager][40]|另一款优秀的思维导图应用|试用 + 付费|[评测][41]|
-|[弹窗广告拦截器][42]|是时候与 QQ 弹窗广告说再见了|免费|[介绍][43]|
-|[GlassWire][44]|用户体验优秀的全能网络流量监控工具，同时具备防火墙功能|免费 Lite + 付费 Pro|[Steam][45] \| [介绍][46]|
-|[CCleaner][47]|如果你有系统洁癖，那一定要选择一款干净、良心、老牌的清洁软件|免费 Lite + 付费 Pro|[评测][48]|
+|[WGestures][34]|优秀实用的全局鼠标手势应用|免费|[介绍][35]|
+|[Wunderlist][36]|在 Windows 上体验一流的一款全平台 GTD 应用|免费 Lite + 订阅 Pro|[评测][37]|
+|[MyerList (UWP)][38]|一款极简的 Todo App，没有任何多余的功能|免费|[评测][39]|
+|[XMind][40]|优秀的思维导图应用|免费 Lite + 付费 Pro|[评测][41]|
+|[MindManager][42]|另一款优秀的思维导图应用|试用 + 付费|[评测][43]|
+|[弹窗广告拦截器][44]|是时候与 QQ 弹窗广告说再见了|免费|[介绍][45]|
+|[GlassWire][46]|用户体验优秀的全能网络流量监控工具，同时具备防火墙功能|免费 Lite + 付费 Pro|[Steam][47] \| [介绍][48]|
+|[CCleaner][49]|如果你有系统洁癖，那一定要选择一款干净、良心、老牌的清洁软件|免费 Lite + 付费 Pro|[评测][50]|
+|[Tickeys][51]|全局键盘音效，找对打字的感觉|免费|[介绍][52]|
 
-[*返回目录*][49]
+[*返回目录*][53]
 
 # 2. 工具类
 
@@ -54,53 +56,56 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 
 |名称|推荐理由|授权方式|相关链接|
 |---|---|---|---|
-|[Beyond Compare][50]|好用又万能的文件对比工具|试用 + 付费|[介绍][51]|
-|[Bulk Rename Utility][52]|强大的文件重命名工具，支持正则、JS，还有更多高级功能|个人免费 + 商用付费|[简易教程][53]|
+|[Beyond Compare][54]|好用又万能的文件对比工具|试用 + 付费|[介绍][55]|
+|[Bulk Rename Utility][56]|强大的文件重命名工具，支持正则、JS，还有更多高级功能|个人免费 + 商用付费|[简易教程][57]|
+|[HashTab][58]|资源管理器右键文件->属性，即可查看 MD5、SHA1 等各类 Hash|个人免费 + 商用付费|[介绍][59]|
+|[WirelessKeyView][60]|查看被系统保存过的 WiFi 密码|免费|[介绍][61]|
+|[ProduKey][62]|提取已安装微软产品的 CD-Key|免费|[介绍][63]|
 
-[*返回目录*][54]
+[*返回目录*][64]
 
 # 3. 开发类
 
 |名称|推荐理由|授权方式|相关链接|
 |---|---|---|---|
-|[Cmder][55]|为 CMD / PowerShell 提供绝佳用户体验，Windows 开发必备|免费 + 开源|[介绍][56]|
-|[ConEmu][57]|另一款极具特色的 CMD / PowerShell 增强工具|免费 + 开源|[评测][58]|
-|[BestTrace][59]|集 ping、traceroute、IP 归属地、地图于一体的网络测试工具|免费|[介绍][60]|
-|[Git for Windows (msysgit)][61]|一键安装，同时获得 Git 和 Bash|免费 + 开源|[介绍][62]|
-|[Babun][63]|Cygwin + Git + Zsh + Mintty 完美整合，开箱即用，轻松打造类 Unix 开发环境|免费 + 开源|[介绍][64]|
-|[SourceTree][65]|跨平台图形化界面的 Git 工具，提升效率的好帮手|免费|[教程][66]|
-|[Xshell][67]|非常优秀的终端软件，连接服务器必备|个人免费 + 商用付费|[介绍][68]|
-|[JetBrains 系列 IDE][69]|无论你处于什么技术栈，JetBrains 系列 IDE 几乎都是必不可少的|试用 + 订阅 + 开源|[讨论][70]
-|[Visual Studio Code][71]|微软出品的轻量级代码编辑器，近年新兴编辑器中最优秀的一款|免费 + 开源|[评测1][72] \| [评测2][73]|
-|[Fiddler][74]|特别好用的 HTTP 抓包、篡改工具|免费|[介绍][75]|
-|[FlashFXP][76]|功能强度大又易用的 FTP 应用|试用 + 付费|[介绍][77]|
-|[PC Hunter][78]|内核级系统信息分析工具|免费|[介绍][79]|
-|[AutoIt][80]|编程友好的键鼠屏自动化软件|免费 + 开源|[评测][81]|
-|[Gpg4win][82]|Windows 平台上的完整 GPG 套件，包含 GUI|免费 + 开源|[介绍][83]|
+|[Cmder][65]|为 CMD / PowerShell 提供绝佳用户体验，Windows 开发必备|免费 + 开源|[介绍][66]|
+|[ConEmu][67]|另一款极具特色的 CMD / PowerShell 增强工具|免费 + 开源|[评测][68]|
+|[BestTrace][69]|集 ping、traceroute、IP 归属地、地图于一体的网络测试工具|免费|[介绍][70]|
+|[Git for Windows (msysgit)][71]|一键安装，同时获得 Git 和 Bash|免费 + 开源|[介绍][72]|
+|[Babun][73]|Cygwin + Git + Zsh + Mintty 完美整合，开箱即用，轻松打造类 Unix 开发环境|免费 + 开源|[介绍][74]|
+|[SourceTree][75]|跨平台图形化界面的 Git 工具，提升效率的好帮手|免费|[教程][76]|
+|[Xshell][77]|非常优秀的终端软件，连接服务器必备|个人免费 + 商用付费|[介绍][78]|
+|[JetBrains 系列 IDE][79]|无论你处于什么技术栈，JetBrains 系列 IDE 几乎都是必不可少的|试用 + 订阅 + 开源|[讨论][80]
+|[Visual Studio Code][81]|微软出品的轻量级代码编辑器，近年新兴编辑器中最优秀的一款|免费 + 开源|[评测1][82] \| [评测2][83]|
+|[Fiddler][84]|特别好用的 HTTP 抓包、篡改工具|免费|[介绍][85]|
+|[FlashFXP][86]|功能强度大又易用的 FTP 应用|试用 + 付费|[介绍][87]|
+|[PC Hunter][88]|内核级系统信息分析工具|免费|[介绍][89]|
+|[AutoIt][90]|编程友好的键鼠屏自动化软件|免费 + 开源|[评测][91]|
+|[Gpg4win][92]|Windows 平台上的完整 GPG 套件，包含 GUI|免费 + 开源|[介绍][93]|
 
-[*返回目录*][84]
+[*返回目录*][94]
 
 # 4. 设计类
 
 |名称|推荐理由|授权方式|相关链接|
 |---|---|---|---|
-|[Syncfusion Metro Studio][85]|可以直接导出 SVG / XAML 的免费 Metro 风格图标库|免费|[介绍][86]|
-|[FontCreator][87]|无需过多背景知识、非常容易上手的字体设计软件|试用 + 付费|[教程][88]|
+|[Syncfusion Metro Studio][95]|可以直接导出 SVG / XAML 的免费 Metro 风格图标库|免费|[介绍][96]|
+|[FontCreator][97]|无需过多背景知识、非常容易上手的字体设计软件|试用 + 付费|[教程][98]|
 
-[*返回目录*][89]
+[*返回目录*][99]
 
 # 5. 娱乐类
 
 |名称|推荐理由|授权方式|相关链接|
 |---|---|---|---|
-|[Steam][90]|PC 上无可替代的数字游戏发行平台|[![Steam Discount][91]][92]|[介绍][93]|
-|[Internet Download Manager][94]|这年头你已经很难找到一款老实的下载软件了|试用 + 订阅|[评测][95]|
-|[PotPlayer][96]|一款用心在做的全能视频播放器|免费|[介绍][97]|
-|[网易云音乐 (UWP)][98]|国产良心音乐应用，为数不多的 UWP 超越桌面客户端的一款产品|免费|[评测][99]|
-|[HaloRadio][100]|一个小清新的豆瓣每日私人歌单客户端|免费|[简介][101]|
-|[微博 (UWP)][102]|轻量、干净的微博客户端|免费|[评测][103]|
+|[Steam][100]|PC 上无可替代的数字游戏发行平台|[![Steam Discount][101]][102]|[介绍][103]|
+|[Internet Download Manager][104]|这年头你已经很难找到一款老实的下载软件了|试用 + 订阅|[评测][105]|
+|[PotPlayer][106]|一款用心在做的全能视频播放器|免费|[介绍][107]|
+|[网易云音乐 (UWP)][108]|国产良心音乐应用，为数不多的 UWP 超越桌面客户端的一款产品|免费|[评测][109]|
+|[HaloRadio][110]|一个小清新的豆瓣每日私人歌单客户端|免费|[简介][111]|
+|[微博 (UWP)][112]|轻量、干净的微博客户端|免费|[评测][113]|
 
-[*返回目录*][104]
+[*返回目录*][114]
 
 
   [1]: http://i.imgur.com/waCNjA2.png
@@ -136,74 +141,84 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
   [31]: https://autohotkey.com/
   [32]: https://zh.wikipedia.org/wiki/AutoHotkey
   [33]: https://autohotkey.com/boards/viewtopic.php?t=1099
-  [34]: https://www.wunderlist.com/
-  [35]: http://www.iplaysoft.com/wunderlist.html
-  [36]: https://www.microsoft.com/zh-cn/store/apps/myerlist/9nblggh11k1m
-  [37]: http://www.chinaz.com/mobile/2016/0226/508096.shtml
-  [38]: http://www.xmind.net/
-  [39]: https://www.zhihu.com/question/22094277
-  [40]: https://www.mindjet.com/mindmanager/
+  [34]: http://www.yingdev.com/projects/wgestures
+  [35]: http://www.iplaysoft.com/wgestures.html
+  [36]: https://www.wunderlist.com/
+  [37]: http://www.iplaysoft.com/wunderlist.html
+  [38]: https://www.microsoft.com/zh-cn/store/apps/myerlist/9nblggh11k1m
+  [39]: http://www.chinaz.com/mobile/2016/0226/508096.shtml
+  [40]: http://www.xmind.net/
   [41]: https://www.zhihu.com/question/22094277
-  [42]: https://www.zhihu.com/question/24265718/answer/27226434
-  [43]: http://www.appinn.com/close-a-d-s/
-  [44]: https://www.glasswire.com/
-  [45]: http://store.steampowered.com/app/355000/
-  [46]: http://steamcn.com/t195977-1-1
-  [47]: https://www.piriform.com/ccleaner/download
-  [48]: http://www.iplaysoft.com/ccleaner.html
-  [49]: #%E7%9B%AE%E5%BD%95
-  [50]: http://www.scootersoftware.com/
-  [51]: http://blog.rathena.cn/2015/01/beyond-compare/
-  [52]: http://www.bulkrenameutility.co.uk/
-  [53]: http://www.gezila.com/tutorials/58882_all.html
-  [54]: #%E7%9B%AE%E5%BD%95
-  [55]: http://cmder.net/
-  [56]: http://www.jeffjade.com/2016/01/13/2016-01-13-windows-software-cmder/
-  [57]: https://sourceforge.net/projects/conemu/
-  [58]: https://zhuanlan.zhihu.com/p/20947499
-  [59]: http://www.ipip.net/download.html
-  [60]: http://blog.sina.com.cn/s/blog_5f5a3dff0102wdf4.html
-  [61]: https://git-for-windows.github.io/
-  [62]: http://www.worldhello.net/gotgit/01-meet-git/060-install-on-windows-msysgit.html
-  [63]: http://babun.github.io/
-  [64]: http://www.open-open.com/lib/view/open1428543585104.html
-  [65]: https://www.sourcetreeapp.com/
-  [66]: http://blog.csdn.net/jackjia2015/article/details/51140552
-  [67]: https://www.netsarang.com/products/xsh_overview.html
-  [68]: http://www.portablesoft.org/xshell/
-  [69]: https://www.jetbrains.com/products.html
-  [70]: https://www.v2ex.com/t/86322
-  [71]: https://code.visualstudio.com/
-  [72]: https://segmentfault.com/a/1190000002721112
-  [73]: http://www.jianshu.com/p/2ae767137725
-  [74]: http://www.telerik.com/fiddler
-  [75]: http://mccxj.github.io/blog/20130531_introduce-to-fiddler.html
-  [76]: https://www.flashfxp.com/
-  [77]: http://baike.baidu.com/item/FlashFXP
-  [78]: http://www.xuetr.com/
-  [79]: http://baike.baidu.com/view/10024019.htm
-  [80]: https://www.autoitscript.com/
-  [81]: http://www.diggerplus.org/archives/1952
-  [82]: https://www.gpg4win.org/
-  [83]: http://terrychen.info/encryption-gpg4win/
-  [84]: #%E7%9B%AE%E5%BD%95
-  [85]: https://www.syncfusion.com/downloads/metrostudio
-  [86]: http://www.oschina.net/translate/creating-metro-style-icons-with-metro-studio
-  [87]: http://www.high-logic.com/font-editor/fontcreator.html
-  [88]: https://www.youtube.com/playlist?list=PLs44M3ctv-oOycSO2H5bfG9p0MgPs_hw-
-  [89]: #%E7%9B%AE%E5%BD%95
-  [90]: http://store.steampowered.com/
-  [91]: http://i.imgur.com/Ey5B8RU.png
-  [92]: https://www.google.com/search?q=steam%20memes&tbm=isch
-  [93]: https://zh.wikipedia.org/wiki/Steam
-  [94]: https://www.internetdownloadmanager.com/
-  [95]: https://xbeta.info/idm.htm
-  [96]: https://potplayer.daum.net/
-  [97]: http://baike.baidu.com/item/PotPlayer
-  [98]: https://www.microsoft.com/zh-cn/store/apps/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90uwp/9nblggh6g0jf
-  [99]: http://zhihu.com/question/38409442/answer/76287469
-  [100]: http://www.icyarrow.com/labs/haloradio/
-  [101]: https://www.v2ex.com/t/282377
-  [102]: https://www.microsoft.com/zh-cn/store/apps/%E5%BE%AE%E5%8D%9A/9wzdncrfj1hg
-  [103]: http://www.ithome.com/html/windowsphone/184306.htm
-  [104]: #%E7%9B%AE%E5%BD%95
+  [42]: https://www.mindjet.com/mindmanager/
+  [43]: https://www.zhihu.com/question/22094277
+  [44]: https://www.zhihu.com/question/24265718/answer/27226434
+  [45]: http://www.appinn.com/close-a-d-s/
+  [46]: https://www.glasswire.com/
+  [47]: http://store.steampowered.com/app/355000/
+  [48]: http://steamcn.com/t195977-1-1
+  [49]: https://www.piriform.com/ccleaner/download
+  [50]: http://www.iplaysoft.com/ccleaner.html
+  [51]: http://www.yingdev.com/projects/tickeys
+  [52]: http://www.iplaysoft.com/tickeys.html
+  [53]: #%E7%9B%AE%E5%BD%95
+  [54]: http://www.scootersoftware.com/
+  [55]: http://blog.rathena.cn/2015/01/beyond-compare/
+  [56]: http://www.bulkrenameutility.co.uk/
+  [57]: http://www.gezila.com/tutorials/58882_all.html
+  [58]: http://implbits.com/products/hashtab/
+  [59]: http://www.pcpop.com/doc/1/1151/1151715.shtml
+  [60]: http://www.nirsoft.net/utils/wireless_key.html
+  [61]: http://www.ihacksoft.com/wirelesskeyview.html
+  [62]: http://www.nirsoft.net/utils/product_cd_key_viewer.html
+  [63]: http://www.iruanmi.com/produkey-viewer/
+  [64]: #%E7%9B%AE%E5%BD%95
+  [65]: http://cmder.net/
+  [66]: http://www.jeffjade.com/2016/01/13/2016-01-13-windows-software-cmder/
+  [67]: https://sourceforge.net/projects/conemu/
+  [68]: https://zhuanlan.zhihu.com/p/20947499
+  [69]: http://www.ipip.net/download.html
+  [70]: http://blog.sina.com.cn/s/blog_5f5a3dff0102wdf4.html
+  [71]: https://git-for-windows.github.io/
+  [72]: http://www.worldhello.net/gotgit/01-meet-git/060-install-on-windows-msysgit.html
+  [73]: http://babun.github.io/
+  [74]: http://www.open-open.com/lib/view/open1428543585104.html
+  [75]: https://www.sourcetreeapp.com/
+  [76]: http://blog.csdn.net/jackjia2015/article/details/51140552
+  [77]: https://www.netsarang.com/products/xsh_overview.html
+  [78]: http://www.portablesoft.org/xshell/
+  [79]: https://www.jetbrains.com/products.html
+  [80]: https://www.v2ex.com/t/86322
+  [81]: https://code.visualstudio.com/
+  [82]: https://segmentfault.com/a/1190000002721112
+  [83]: http://www.jianshu.com/p/2ae767137725
+  [84]: http://www.telerik.com/fiddler
+  [85]: http://mccxj.github.io/blog/20130531_introduce-to-fiddler.html
+  [86]: https://www.flashfxp.com/
+  [87]: http://baike.baidu.com/item/FlashFXP
+  [88]: http://www.xuetr.com/
+  [89]: http://baike.baidu.com/view/10024019.htm
+  [90]: https://www.autoitscript.com/
+  [91]: http://www.diggerplus.org/archives/1952
+  [92]: https://www.gpg4win.org/
+  [93]: http://terrychen.info/encryption-gpg4win/
+  [94]: #%E7%9B%AE%E5%BD%95
+  [95]: https://www.syncfusion.com/downloads/metrostudio
+  [96]: http://www.oschina.net/translate/creating-metro-style-icons-with-metro-studio
+  [97]: http://www.high-logic.com/font-editor/fontcreator.html
+  [98]: https://www.youtube.com/playlist?list=PLs44M3ctv-oOycSO2H5bfG9p0MgPs_hw-
+  [99]: #%E7%9B%AE%E5%BD%95
+  [100]: http://store.steampowered.com/
+  [101]: http://i.imgur.com/Ey5B8RU.png
+  [102]: https://www.google.com/search?q=steam%20memes&tbm=isch
+  [103]: https://zh.wikipedia.org/wiki/Steam
+  [104]: https://www.internetdownloadmanager.com/
+  [105]: https://xbeta.info/idm.htm
+  [106]: https://potplayer.daum.net/
+  [107]: http://baike.baidu.com/item/PotPlayer
+  [108]: https://www.microsoft.com/zh-cn/store/apps/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90uwp/9nblggh6g0jf
+  [109]: http://zhihu.com/question/38409442/answer/76287469
+  [110]: http://www.icyarrow.com/labs/haloradio/
+  [111]: https://www.v2ex.com/t/282377
+  [112]: https://www.microsoft.com/zh-cn/store/apps/%E5%BE%AE%E5%8D%9A/9wzdncrfj1hg
+  [113]: http://www.ithome.com/html/windowsphone/184306.htm
+  [114]: #%E7%9B%AE%E5%BD%95

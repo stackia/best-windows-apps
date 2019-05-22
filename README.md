@@ -47,6 +47,7 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 |[GlassWire][46]|用户体验优秀的全能网络流量监控工具，同时具备防火墙功能|免费 Lite + 付费 Pro|[Steam][47] \| [介绍][48]|
 |[CCleaner][49]|如果你有系统洁癖，那一定要选择一款干净、良心、老牌的清洁软件|免费 Lite + 付费 Pro|[评测][50]|
 |[Tickeys][51]|全局键盘音效，找对打字的感觉|免费|[介绍][52]|
+|[Typora][115]|极致简洁的 Markdown 编辑器，所见即所得|免费|[介绍][116]|
 
 [*返回目录*][53]
 
@@ -222,3 +223,5 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
   [112]: https://www.microsoft.com/zh-cn/store/apps/%E5%BE%AE%E5%8D%9A/9wzdncrfj1hg
   [113]: http://www.ithome.com/html/windowsphone/184306.htm
   [114]: #%E7%9B%AE%E5%BD%95
+  [115]: https://www.typora.io/
+  [116]: https://www.jianshu.com/p/5256ecc06eec

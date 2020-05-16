@@ -92,6 +92,7 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 |---|---|---|---|
 |[Syncfusion Metro Studio][95]|可以直接导出 SVG / XAML 的免费 Metro 风格图标库|免费|[介绍][96]|
 |[FontCreator][97]|无需过多背景知识、非常容易上手的字体设计软件|试用 + 付费|[教程][98]|
+|[Pichon by Icons8][117]|多种设计语言的扩展图标库，在符合风格的前提下提供比官方图标库更丰富的样式。支持 SVG / EPS / XMAL 格式。|免费库 + 订阅库|[中文介绍][118]|
 
 [*返回目录*][99]
 
@@ -225,3 +226,5 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
   [114]: #%E7%9B%AE%E5%BD%95
   [115]: https://www.typora.io/
   [116]: https://www.jianshu.com/p/5256ecc06eec
+  [117]: https://icons8.com/app
+  [118]: https://zhuanlan.zhihu.com/p/89883221

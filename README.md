@@ -105,7 +105,6 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 |[PotPlayer][106]|一款用心在做的全能视频播放器|免费|[介绍][107]|
 |[网易云音乐 (UWP)][108]|国产良心音乐应用，为数不多的 UWP 超越桌面客户端的一款产品|免费|[评测][109]|
 |[HaloRadio][110]|一个小清新的豆瓣每日私人歌单客户端|免费|[简介][111]|
-|[微博 (UWP)][112]|轻量、干净的微博客户端|免费|[评测][113]|
 
 [*返回目录*][114]
 
@@ -222,7 +221,6 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
   [110]: http://www.icyarrow.com/labs/haloradio/
   [111]: https://www.v2ex.com/t/282377
   [112]: https://www.microsoft.com/zh-cn/store/apps/%E5%BE%AE%E5%8D%9A/9wzdncrfj1hg
-  [113]: http://www.ithome.com/html/windowsphone/184306.htm
   [114]: #%E7%9B%AE%E5%BD%95
   [115]: https://www.typora.io/
   [116]: https://www.jianshu.com/p/5256ecc06eec

@@ -115,9 +115,6 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 [*返回目录*][127]
 
 
-  [118/t/282377
-
-
   [1]: http://i.imgur.com/waCNjA2.png
   [2]: https://www.microsoft.com/zh-cn/windows
   [3]: https://github.com/hzlzh
@@ -243,5 +240,5 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
   [123]: https://www.microsoft.com/zh-cn/store/apps/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90uwp/9nblggh6g0jf
   [124]: http://zhihu.com/question/38409442/answer/76287469
   [125]: http://www.icyarrow.com/labs/haloradio/
-  [126]: #%E7%9B%AE%E5%BD%95
+  [126]: https://www.v2ex.com/t/282377
   [127]: #%E7%9B%AE%E5%BD%95

@@ -78,7 +78,6 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 |[winget][78]|微软出品的包管理工具，未来有可能取代 choco/scoop|免费 + 开源|[评测][79]|
 |[BestTrace][80]|集 ping、traceroute、IP 归属地、地图于一体的网络测试工具|免费|[介绍][81]|
 |[Git for Windows (msysgit)][82]|一键安装，同时获得 Git 和 Bash|免费 + 开源|[介绍][83]|
-|[Babun][84]|Cygwin + Git + Zsh + Mintty 完美整合，开箱即用，轻松打造类 Unix 开发环境|免费 + 开源|[介绍][85]|
 |[SourceTree][86]|跨平台图形化的 Git 工具，提升效率的好帮手|免费|[教程][87]|
 |[GitKraken Git GUI][88]|拥有漂亮界面的跨平台图形化 Git 工具，与 GitHub/GitLab/Bitbutket 等都有良好的集成|免费 Lite + 付费 Pro|[介绍][89]|
 |[Xshell][90]|非常优秀的终端软件，连接服务器必备|个人免费 + 商用付费|[介绍][91]|

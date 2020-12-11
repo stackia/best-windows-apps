@@ -33,7 +33,6 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 |[Listary][12]|非常优秀的 Windows 文件浏览和搜索增强工具|免费 Lite + 付费 Pro|[评测][13]|
 |[WoX][14]|新一代文件定位工具，堪称 Windows 上的 Alfred|免费 + 开源|[评测][15]|
 |[ShareX][16]|你要的所有与截图、录屏相关的功能，这里都有了|免费 + 开源|[Steam][17] \| [介绍][18]|
-|[Clover][19]|为你的资源管理器添加像浏览器一样的多标签功能|免费|[评测][20]|
 |[Total Commander][21]|老牌、功能异常强大的文件管理增强软件|试用 + 付费|[评测][22] \| [中文教程][23]|
 |[OneNote][24]|Windows 下综合评价非常高的笔记应用|免费|[评测1][25] \| [评测2][26]|
 |[MarkdownPad][27]|全能 Markdown 编辑器|免费 Lite + 付费 Pro|[评测][28]|
@@ -132,8 +131,6 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
   [16]: https://getsharex.com/
   [17]: http://store.steampowered.com/app/400040/
   [18]: http://www.appinn.com/sharex/
-  [19]: http://cn.ejie.me/
-  [20]: http://www.iplaysoft.com/clover.html
   [21]: http://www.ghisler.com/
   [22]: https://www.zhihu.com/question/21616258
   [23]: https://xbeta.info/studytc/index.htm

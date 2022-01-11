@@ -105,8 +105,6 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 [*返回目录*][125]
 
 
-  [118ke.baidu.com/item/PotPlayer
-
 
   [1]: http://i.imgur.com/waCNjA2.png
   [2]: https://www.microsoft.com/zh-cn/windows
@@ -173,7 +171,7 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
   [63]: https://www.internetdownloadmanager.com/
   [64]: https://xbeta.info/idm.htm
   [65]: https://potplayer.daum.net/
-  [66]: #%E7%9B%AE%E5%BD%95
+  [66]: https://baike.baidu.com/item/PotPlayer
   [67]: #%E7%9B%AE%E5%BD%95
   [68]: https://www.microsoft.com/zh-cn/p/windows-terminal/9n0dx20hk701
   [69]: https://www.zhihu.com/question/323284458

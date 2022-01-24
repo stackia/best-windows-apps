@@ -75,7 +75,7 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 |[FlashFXP][97]|功能强度大又易用的 FTP 应用|试用 + 付费|[介绍][98]|
 |[AutoIt][99]|编程友好的键鼠屏自动化软件|免费 + 开源|[评测][100]|
 |[Gpg4win][101]|Windows 平台上的完整 GPG 套件，包含 GUI|免费 + 开源|[介绍][102]|
-|[HashTab][103]|资源管理器右键文件->属性，即可查看 MD5、SHA1 等各类 Hash|个人免费 + 商用付费|[介绍][104]|
+|[OpenHashTab][103]|资源管理器右键文件->属性，即可查看 MD5、SHA1 等各类 Hash|免费 + 开源|[介绍][104]|
 |[ProduKey][105]|提取已安装微软产品的 CD-Key|免费|[介绍][106]|
 
 
@@ -208,8 +208,8 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
   [100]: http://www.diggerplus.org/archives/1952
   [101]: https://www.gpg4win.org/
   [102]: http://terrychen.info/encryption-gpg4win/
-  [103]: http://implbits.com/products/hashtab/
-  [104]: http://www.pcpop.com/doc/1/1151/1151715.shtml
+  [103]: https://github.com/namazso/OpenHashTab
+  [104]: https://www.appinn.com/openhashtab/
   [105]: http://www.nirsoft.net/utils/product_cd_key_viewer.html
   [106]: http://www.iruanmi.com/produkey-viewer/
   [107]: #%E7%9B%AE%E5%BD%95

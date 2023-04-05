@@ -39,82 +39,83 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 |[Cmd Markdown][34]|跨平台优秀 Markdown 编辑器，本文即用其所写|免费软件 + 付费服务|[简介][35]|
 |[AutoHotKey][36]|用户友好、简单易用的键鼠屏自动化软件|免费 + 开源|[介绍][37] \| [中文教程][38]|
 |[WGestures 2][39]|优秀实用的全局鼠标手势应用|付费|[评测][40]|
-|[XMind][41]|优秀的思维导图应用|免费 Lite + 付费 Pro|[评测][42]|
-|[MindManager][43]|另一款优秀的思维导图应用|试用 + 付费|[评测][44]|
-|[Bitwarden][45]|优秀的密码管理器，灵活的商业模式，开源并可以自己部署服务端|订阅 + 开源|[评测][46]|
-|[弹窗广告拦截器][47]|是时候与 QQ 弹窗广告说再见了|免费|[介绍][48]|
-|[GlassWire][49]|用户体验优秀的全能网络流量监控工具，同时具备防火墙功能|免费 Lite + 付费 Pro|[Steam][50] \| [介绍][51]|
-|[Tickeys][52]|全局键盘音效，找对打字的感觉|免费|[介绍][53]|
-|[Typora][54]|极致简洁的 Markdown 编辑器，所见即所得|试用 + 付费|[介绍][55]|
-|[PowerToys][56]|微软出品的效率工具合集，增强 Windows 系统体验|免费 + 开源|[介绍1][57] \| [介绍2][58]|
-|[Beyond Compare][59]|好用又万能的文件对比工具|试用 + 付费|[教程][60]|
-|[Bulk Rename Utility][61]|强大的文件重命名工具，支持正则、JS，还有更多高级功能|个人免费 + 商用付费|[简易教程][62]|
-|[WirelessKeyView][63]|查看被系统保存过的 WiFi 密码|免费|[介绍][64]|
-|[Internet Download Manager][65]|这年头你已经很难找到一款老实的下载软件了|试用 + 付费|[评测][66]|
-|[PotPlayer][67]|一款用心在做的全能视频播放器|免费|[介绍][68]|
-|[Notepad++][69]|轻量级纯文本编辑器，可以替代系统自带记事本|免费 + 开源|[讨论][70]|
-|[ProduKey][71]|提取已安装微软产品的 CD-Key|免费|[介绍][72]|
-|[ScreenToGif][73]|集合录屏、摄像头、白板、转 GIF 于一体的录制工具，工作协作必备|免费 + 开源|[评测][74]|
-|[Bandicam][75]|老牌高质量录屏软件|试用 + 付费|[介绍][76]|
-|[OBS Studio][77]|除了能够用作直播推流，本身也是一款强大的录屏工具|免费 + 开源|[教程][78]|
-|[Wallpaper Engine][79]|让你的桌面变“好看”！|付费|[Steam][80] \| [介绍][81]|
-|[Geek Uninstaller][82]|清理卸载残留文件，简洁易用|免费|[介绍][83]|
-|[Dism++][84]|系统备份、还原、清理开机密码，装机必备|免费 + 开源|[介绍][85]|
+|[Quicker][41]|超强大的快捷操作面板，可以高度定制自动化|免费 Lite + 付费 Pro|[评测][42]|
+|[XMind][43]|优秀的思维导图应用|免费 Lite + 付费 Pro|[评测][44]|
+|[MindManager][45]|另一款优秀的思维导图应用|试用 + 付费|[评测][46]|
+|[Bitwarden][47]|优秀的密码管理器，灵活的商业模式，开源并可以自己部署服务端|订阅 + 开源|[评测][48]|
+|[弹窗广告拦截器][49]|是时候与 QQ 弹窗广告说再见了|免费|[介绍][50]|
+|[GlassWire][51]|用户体验优秀的全能网络流量监控工具，同时具备防火墙功能|免费 Lite + 付费 Pro|[Steam][52] \| [介绍][53]|
+|[Tickeys][54]|全局键盘音效，找对打字的感觉|免费|[介绍][55]|
+|[Typora][56]|极致简洁的 Markdown 编辑器，所见即所得|试用 + 付费|[介绍][57]|
+|[PowerToys][58]|微软出品的效率工具合集，增强 Windows 系统体验|免费 + 开源|[介绍1][59] \| [介绍2][60]|
+|[Beyond Compare][61]|好用又万能的文件对比工具|试用 + 付费|[教程][62]|
+|[Bulk Rename Utility][63]|强大的文件重命名工具，支持正则、JS，还有更多高级功能|个人免费 + 商用付费|[简易教程][64]|
+|[WirelessKeyView][65]|查看被系统保存过的 WiFi 密码|免费|[介绍][66]|
+|[Internet Download Manager][67]|这年头你已经很难找到一款老实的下载软件了|试用 + 付费|[评测][68]|
+|[PotPlayer][69]|一款用心在做的全能视频播放器|免费|[介绍][70]|
+|[Notepad++][71]|轻量级纯文本编辑器，可以替代系统自带记事本|免费 + 开源|[讨论][72]|
+|[ProduKey][73]|提取已安装微软产品的 CD-Key|免费|[介绍][74]|
+|[ScreenToGif][75]|集合录屏、摄像头、白板、转 GIF 于一体的录制工具，工作协作必备|免费 + 开源|[评测][76]|
+|[Bandicam][77]|老牌高质量录屏软件|试用 + 付费|[介绍][78]|
+|[OBS Studio][79]|除了能够用作直播推流，本身也是一款强大的录屏工具|免费 + 开源|[教程][80]|
+|[Wallpaper Engine][81]|让你的桌面变“好看”！|付费|[Steam][82] \| [介绍][83]|
+|[Geek Uninstaller][84]|清理卸载残留文件，简洁易用|免费|[介绍][85]|
+|[Dism++][86]|系统备份、还原、清理开机密码，装机必备|免费 + 开源|[介绍][87]|
 
-[*返回目录*][86]
+[*返回目录*][88]
 
 
 ## 2. 如果你是工程师
 
 |名称|推荐理由|授权方式|相关链接|
 |---|---|---|---|
-|[Windows Terminal][87]|微软出品划时代终端工具，支持 CMD/ PowerShell / WSL 等，从 Windows 11 起系统内置|免费 + 开源|[评测][88]
-|[Cmder][89]|为 CMD / PowerShell 提供绝佳用户体验|免费 + 开源|[介绍][90]|
-|[ConEmu][91]|另一款极具特色的 CMD / PowerShell 增强工具|免费 + 开源|[介绍][92]|
-|[winget][93]|微软出品的包管理工具，从 Windows 11 起系统内置|免费 + 开源|[评测][94]|
-|[Chocolatey][95]|社区流行的包管理工具，一键安装各种软件和工具|免费 + 开源|[评测][96]|
-|[scoop][97]|另一款社区流行的包管理工具，更加聚焦于命令行工具|免费 + 开源|[介绍][98]|
-|[BestTrace][99]|集 ping、traceroute、IP 归属地、地图于一体的网络测试工具|免费|[介绍][100]|
-|[SourceTree][101]|跨平台图形化的 Git 工具，提升效率的好帮手|免费|[教程][102]|
-|[GitKraken Git GUI][103]|拥有漂亮界面的跨平台图形化 Git 工具，与 GitHub/GitLab/Bitbutket 等都有良好的集成|免费 Lite + 付费 Pro|[讨论][104]|
-|[Xshell][105]|非常优秀的终端软件，连接服务器必备|个人免费 + 商用付费|[讨论][106]|
-|[JetBrains 系列 IDE][107]|无论你处于什么技术栈，JetBrains 系列 IDE 几乎都是必不可少的|试用 + 付费 + 开源|[讨论][108]
-|[Visual Studio Code][109]|微软出品的轻量级代码编辑器，近年新兴编辑器中最优秀的一款|免费 + 开源|[评测][110]|
-|[Fiddler][111]|特别好用的 HTTP 抓包、篡改工具|免费|[介绍][112]|
-|[WinSCP][113]|开源免费而又功能强大的 FTP 客户端|开源 + 免费|[介绍][114]|
-|[FlashFXP][115]|老牌、功能强度大又易用的 FTP 客户端|试用 + 付费|[介绍][116]|
-|[AutoIt][117]|编程友好的键鼠屏自动化软件|免费 + 开源|[讨论][118]|
-|[Gpg4win][119]|Windows 平台上的完整 GPG 套件，包含 GUI|免费 + 开源|[介绍][120]|
-|[OpenHashTab][121]|资源管理器右键文件->属性，即可查看 MD5、SHA1 等各类 Hash|免费 + 开源|[介绍][122]|
+|[Windows Terminal][89]|微软出品划时代终端工具，支持 CMD/ PowerShell / WSL 等，从 Windows 11 起系统内置|免费 + 开源|[评测][90]
+|[Cmder][91]|为 CMD / PowerShell 提供绝佳用户体验|免费 + 开源|[介绍][92]|
+|[ConEmu][93]|另一款极具特色的 CMD / PowerShell 增强工具|免费 + 开源|[介绍][94]|
+|[winget][95]|微软出品的包管理工具，从 Windows 11 起系统内置|免费 + 开源|[评测][96]|
+|[Chocolatey][97]|社区流行的包管理工具，一键安装各种软件和工具|免费 + 开源|[评测][98]|
+|[scoop][99]|另一款社区流行的包管理工具，更加聚焦于命令行工具|免费 + 开源|[介绍][100]|
+|[BestTrace][101]|集 ping、traceroute、IP 归属地、地图于一体的网络测试工具|免费|[介绍][102]|
+|[SourceTree][103]|跨平台图形化的 Git 工具，提升效率的好帮手|免费|[教程][104]|
+|[GitKraken Git GUI][105]|拥有漂亮界面的跨平台图形化 Git 工具，与 GitHub/GitLab/Bitbutket 等都有良好的集成|免费 Lite + 付费 Pro|[讨论][106]|
+|[Xshell][107]|非常优秀的终端软件，连接服务器必备|个人免费 + 商用付费|[讨论][108]|
+|[JetBrains 系列 IDE][109]|无论你处于什么技术栈，JetBrains 系列 IDE 几乎都是必不可少的|试用 + 付费 + 开源|[讨论][110]
+|[Visual Studio Code][111]|微软出品的轻量级代码编辑器，近年新兴编辑器中最优秀的一款|免费 + 开源|[评测][112]|
+|[Fiddler][113]|特别好用的 HTTP 抓包、篡改工具|免费|[介绍][114]|
+|[WinSCP][115]|开源免费而又功能强大的 FTP 客户端|开源 + 免费|[介绍][116]|
+|[FlashFXP][117]|老牌、功能强度大又易用的 FTP 客户端|试用 + 付费|[介绍][118]|
+|[AutoIt][119]|编程友好的键鼠屏自动化软件|免费 + 开源|[讨论][120]|
+|[Gpg4win][121]|Windows 平台上的完整 GPG 套件，包含 GUI|免费 + 开源|[介绍][122]|
+|[OpenHashTab][123]|资源管理器右键文件->属性，即可查看 MD5、SHA1 等各类 Hash|免费 + 开源|[介绍][124]|
 
 
-[*返回目录*][123]
+[*返回目录*][125]
 
 
 ## 3. 如果你是影视与设计工作者
 
 |名称|推荐理由|授权方式|相关链接|
 |---|---|---|---|
-|[FontCreator][124]|无需过多背景知识、非常容易上手的字体设计软件|试用 + 付费|[教程][125]|
-|[Pichon by Icons8][126]|多种设计语言的扩展图标库，在符合风格的前提下提供比官方图标库更丰富的样式。支持 SVG / EPS / XMAL 格式。|免费 Lite + 付费 Pro|[中文介绍][127]|
-|[33台词][128]|通过台词快速找到影片素材|付费|[介绍][129]|
-|[HandBrake][130]|全能的视频转码工具|免费 + 开源|[介绍][131]|
+|[FontCreator][126]|无需过多背景知识、非常容易上手的字体设计软件|试用 + 付费|[教程][127]|
+|[Pichon by Icons8][128]|多种设计语言的扩展图标库，在符合风格的前提下提供比官方图标库更丰富的样式。支持 SVG / EPS / XMAL 格式。|免费 Lite + 付费 Pro|[中文介绍][129]|
+|[33台词][130]|通过台词快速找到影片素材|付费|[介绍][131]|
+|[HandBrake][132]|全能的视频转码工具|免费 + 开源|[介绍][133]|
 
-[*返回目录*][132]
+[*返回目录*][134]
 
 
 ## 4. 偶尔想摸鱼的话
 
 |名称|推荐理由|授权方式|相关链接|
 |---|---|---|---|
-|[Steam][133]|PC 上无可替代的数字游戏发行平台|[![Steam Discount][134]][135]|[介绍][136]|
-|[Thief][137]|通过极具伪装性地方式隐秘地炒股、看直播、看小说|免费 Lite + 付费 Pro|[介绍][138]|
-|[fakeupdate][139]|在屏幕上展示一个假的 Windows 更新画面|免费|[介绍][140]|
-|[z-reader][141]|在 VSCode 上看小说|免费|
-|[韭菜盒子][142]|在 VSCode 上炒股|免费|
+|[Steam][135]|PC 上无可替代的数字游戏发行平台|[![Steam Discount][136]][137]|[介绍][138]|
+|[Thief][139]|通过极具伪装性地方式隐秘地炒股、看直播、看小说|免费 Lite + 付费 Pro|[介绍][140]|
+|[fakeupdate][141]|在屏幕上展示一个假的 Windows 更新画面|免费|[介绍][142]|
+|[z-reader][143]|在 VSCode 上看小说|免费|
+|[韭菜盒子][144]|在 VSCode 上炒股|免费|
 
 
-[*返回目录*][143]
+[*返回目录*][145]
 
 
   [1]: https://i.imgur.com/waCNjA2.png
@@ -157,106 +158,108 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
   [38]: https://autohotkey.com/boards/viewtopic.php?t=1099
   [39]: https://www.yingdev.com/projects/wgestures2
   [40]: https://sspai.com/post/71475
-  [41]: https://www.xmind.net/
-  [42]: https://www.zhihu.com/question/22094277
-  [43]: https://www.mindjet.com/mindmanager/
+  [41]: https://getquicker.net/
+  [42]: https://www.zhihu.com/question/323865623/answer/812094047
+  [43]: https://www.xmind.net/
   [44]: https://www.zhihu.com/question/22094277
-  [45]: https://bitwarden.com/
-  [46]: https://www.v2ex.com/t/580916
-  [47]: https://www.zhihu.com/question/24265718/answer/27226434
-  [48]: https://www.appinn.com/close-a-d-s/
-  [49]: https://www.glasswire.com/
-  [50]: https://store.steampowered.com/app/355000/
-  [51]: https://www.appinn.com/glasswire/
-  [52]: https://www.yingdev.com/projects/tickeys
-  [53]: https://www.iplaysoft.com/tickeys.html
-  [54]: https://www.typora.io/
-  [55]: https://sspai.com/post/30292
-  [56]: https://learn.microsoft.com/en-us/windows/powertoys/
-  [57]: https://post.smzdm.com/p/aqnlln7x/
-  [58]: https://zhuanlan.zhihu.com/p/143480760
-  [59]: https://www.scootersoftware.com/
-  [60]: https://www.jianshu.com/p/385cad093db0
-  [61]: https://www.bulkrenameutility.co.uk/
-  [62]: https://www.gezila.com/tutorials/58882_all.html
-  [63]: https://www.nirsoft.net/utils/wireless_key.html
-  [64]: https://www.ihacksoft.com/wirelesskeyview.html
-  [65]: https://www.internetdownloadmanager.com/
-  [66]: https://xbeta.info/idm.htm
-  [67]: https://potplayer.daum.net/
-  [68]: https://baike.baidu.com/item/PotPlayer
-  [69]: https://notepad-plus-plus.org/
-  [70]: https://www.zhihu.com/topic/19572058/hot
-  [71]: https://www.nirsoft.net/utils/product_cd_key_viewer.html
-  [72]: https://briian.com/7013/
-  [73]: https://www.screentogif.com/
-  [74]: https://zhuanlan.zhihu.com/p/95936611
-  [75]: https://www.bandicam.com/
-  [76]: https://zhuanlan.zhihu.com/p/39787334
-  [77]: https://obsproject.com/
-  [78]: https://blog.csdn.net/qq_41854911/article/details/124980980
-  [79]: https://www.wallpaperengine.io/
-  [80]: https://store.steampowered.com/app/431960/
-  [81]: https://zhuanlan.zhihu.com/p/110876539
-  [82]: https://geekuninstaller.com/
-  [83]: https://zhuanlan.zhihu.com/p/381280727
-  [84]: https://github.com/Chuyu-Team/Dism-Multi-language
-  [85]: https://zhuanlan.zhihu.com/p/493696866
-  [86]: #%E7%9B%AE%E5%BD%95
-  [87]: https://www.microsoft.com/zh-cn/p/windows-terminal/9n0dx20hk701
-  [88]: https://www.zhihu.com/question/323284458
-  [89]: https://cmder.app/
-  [90]: https://www.jeffjade.com/2016/01/13/2016-01-13-windows-software-cmder/
-  [91]: https://conemu.github.io/
-  [92]: https://blog.csdn.net/M1mory/article/details/72591289
-  [93]: https://github.com/microsoft/winget-cli
-  [94]: https://www.zhihu.com/question/395989844
-  [95]: https://chocolatey.org/
-  [96]: https://www.zhihu.com/question/46196731
-  [97]: https://scoop.sh/
-  [98]: https://zhuanlan.zhihu.com/p/100714842
-  [99]: https://www.ipip.net/download.html
-  [100]: https://zhuanlan.zhihu.com/p/61293811
-  [101]: https://www.sourcetreeapp.com/
-  [102]: https://blog.csdn.net/weixin_53072519/article/details/124197177
-  [103]: https://www.gitkraken.com/git-client
-  [104]: https://www.zhihu.com/topic/20178094/hot
-  [105]: https://www.netsarang.com/xshell/
-  [106]: https://www.zhihu.com/topic/21190293/hot
-  [107]: https://www.jetbrains.com/products.html
-  [108]: https://www.v2ex.com/t/86322
-  [109]: https://code.visualstudio.com/
-  [110]: https://www.jianshu.com/p/2ae767137725
-  [111]: https://www.telerik.com/fiddler
-  [112]: https://mccxj.github.io/blog/20130531_introduce-to-fiddler.html
-  [113]: https://winscp.net/
-  [114]: https://zhuanlan.zhihu.com/p/337550640
-  [115]: https://www.flashfxp.com/
-  [116]: https://baike.baidu.com/item/FlashFXP
-  [117]: https://www.autoitscript.com/
-  [118]: https://www.zhihu.com/question/20224354
-  [119]: https://www.gpg4win.org/
-  [120]: http://terrychen.info/encryption-gpg4win/
-  [121]: https://github.com/namazso/OpenHashTab
-  [122]: https://www.appinn.com/openhashtab/
-  [123]: #%E7%9B%AE%E5%BD%95
-  [124]: https://www.high-logic.com/font-editor/fontcreator.html
-  [125]: https://www.youtube.com/playlist?list=PLs44M3ctv-oOycSO2H5bfG9p0MgPs_hw-
-  [126]: https://icons8.com/app/windows
-  [127]: https://zhuanlan.zhihu.com/p/89883221
-  [128]: https://33-app.agilestudio.cn/
-  [129]: https://zhuanlan.zhihu.com/p/216394250
-  [130]: https://handbrake.fr/
-  [131]: https://www.iplaysoft.com/handbrake.html
-  [132]: #%E7%9B%AE%E5%BD%95
-  [133]: https://store.steampowered.com/
-  [134]: https://i.imgur.com/Ey5B8RU.png
-  [135]: https://www.google.com/search?q=steam%20memes&tbm=isch
-  [136]: https://zh.wikipedia.org/wiki/Steam
-  [137]: https://thief.im/
-  [138]: https://zhuanlan.zhihu.com/p/76166031
-  [139]: https://fakeupdate.net/
-  [140]: https://zhuanlan.zhihu.com/p/31625751
-  [141]: https://github.com/aooiuu/z-reader
-  [142]: https://github.com/LeekHub/leek-fund
-  [143]: #%E7%9B%AE%E5%BD%95
+  [45]: https://www.mindjet.com/mindmanager/
+  [46]: https://www.zhihu.com/question/22094277
+  [47]: https://bitwarden.com/
+  [48]: https://www.v2ex.com/t/580916
+  [49]: https://www.zhihu.com/question/24265718/answer/27226434
+  [50]: https://www.appinn.com/close-a-d-s/
+  [51]: https://www.glasswire.com/
+  [52]: https://store.steampowered.com/app/355000/
+  [53]: https://www.appinn.com/glasswire/
+  [54]: https://www.yingdev.com/projects/tickeys
+  [55]: https://www.iplaysoft.com/tickeys.html
+  [56]: https://www.typora.io/
+  [57]: https://sspai.com/post/30292
+  [58]: https://learn.microsoft.com/en-us/windows/powertoys/
+  [59]: https://post.smzdm.com/p/aqnlln7x/
+  [60]: https://zhuanlan.zhihu.com/p/143480760
+  [61]: https://www.scootersoftware.com/
+  [62]: https://www.jianshu.com/p/385cad093db0
+  [63]: https://www.bulkrenameutility.co.uk/
+  [64]: https://www.gezila.com/tutorials/58882_all.html
+  [65]: https://www.nirsoft.net/utils/wireless_key.html
+  [66]: https://www.ihacksoft.com/wirelesskeyview.html
+  [67]: https://www.internetdownloadmanager.com/
+  [68]: https://xbeta.info/idm.htm
+  [69]: https://potplayer.daum.net/
+  [70]: https://baike.baidu.com/item/PotPlayer
+  [71]: https://notepad-plus-plus.org/
+  [72]: https://www.zhihu.com/topic/19572058/hot
+  [73]: https://www.nirsoft.net/utils/product_cd_key_viewer.html
+  [74]: https://briian.com/7013/
+  [75]: https://www.screentogif.com/
+  [76]: https://zhuanlan.zhihu.com/p/95936611
+  [77]: https://www.bandicam.com/
+  [78]: https://zhuanlan.zhihu.com/p/39787334
+  [79]: https://obsproject.com/
+  [80]: https://blog.csdn.net/qq_41854911/article/details/124980980
+  [81]: https://www.wallpaperengine.io/
+  [82]: https://store.steampowered.com/app/431960/
+  [83]: https://zhuanlan.zhihu.com/p/110876539
+  [84]: https://geekuninstaller.com/
+  [85]: https://zhuanlan.zhihu.com/p/381280727
+  [86]: https://github.com/Chuyu-Team/Dism-Multi-language
+  [87]: https://zhuanlan.zhihu.com/p/493696866
+  [88]: #%E7%9B%AE%E5%BD%95
+  [89]: https://www.microsoft.com/zh-cn/p/windows-terminal/9n0dx20hk701
+  [90]: https://www.zhihu.com/question/323284458
+  [91]: https://cmder.app/
+  [92]: https://www.jeffjade.com/2016/01/13/2016-01-13-windows-software-cmder/
+  [93]: https://conemu.github.io/
+  [94]: https://blog.csdn.net/M1mory/article/details/72591289
+  [95]: https://github.com/microsoft/winget-cli
+  [96]: https://www.zhihu.com/question/395989844
+  [97]: https://chocolatey.org/
+  [98]: https://www.zhihu.com/question/46196731
+  [99]: https://scoop.sh/
+  [100]: https://zhuanlan.zhihu.com/p/100714842
+  [101]: https://www.ipip.net/download.html
+  [102]: https://zhuanlan.zhihu.com/p/61293811
+  [103]: https://www.sourcetreeapp.com/
+  [104]: https://blog.csdn.net/weixin_53072519/article/details/124197177
+  [105]: https://www.gitkraken.com/git-client
+  [106]: https://www.zhihu.com/topic/20178094/hot
+  [107]: https://www.netsarang.com/xshell/
+  [108]: https://www.zhihu.com/topic/21190293/hot
+  [109]: https://www.jetbrains.com/products.html
+  [110]: https://www.v2ex.com/t/86322
+  [111]: https://code.visualstudio.com/
+  [112]: https://www.jianshu.com/p/2ae767137725
+  [113]: https://www.telerik.com/fiddler
+  [114]: https://mccxj.github.io/blog/20130531_introduce-to-fiddler.html
+  [115]: https://winscp.net/
+  [116]: https://zhuanlan.zhihu.com/p/337550640
+  [117]: https://www.flashfxp.com/
+  [118]: https://baike.baidu.com/item/FlashFXP
+  [119]: https://www.autoitscript.com/
+  [120]: https://www.zhihu.com/question/20224354
+  [121]: https://www.gpg4win.org/
+  [122]: http://terrychen.info/encryption-gpg4win/
+  [123]: https://github.com/namazso/OpenHashTab
+  [124]: https://www.appinn.com/openhashtab/
+  [125]: #%E7%9B%AE%E5%BD%95
+  [126]: https://www.high-logic.com/font-editor/fontcreator.html
+  [127]: https://www.youtube.com/playlist?list=PLs44M3ctv-oOycSO2H5bfG9p0MgPs_hw-
+  [128]: https://icons8.com/app/windows
+  [129]: https://zhuanlan.zhihu.com/p/89883221
+  [130]: https://33-app.agilestudio.cn/
+  [131]: https://zhuanlan.zhihu.com/p/216394250
+  [132]: https://handbrake.fr/
+  [133]: https://www.iplaysoft.com/handbrake.html
+  [134]: #%E7%9B%AE%E5%BD%95
+  [135]: https://store.steampowered.com/
+  [136]: https://i.imgur.com/Ey5B8RU.png
+  [137]: https://www.google.com/search?q=steam%20memes&tbm=isch
+  [138]: https://zh.wikipedia.org/wiki/Steam
+  [139]: https://thief.im/
+  [140]: https://zhuanlan.zhihu.com/p/76166031
+  [141]: https://fakeupdate.net/
+  [142]: https://zhuanlan.zhihu.com/p/31625751
+  [143]: https://github.com/aooiuu/z-reader
+  [144]: https://github.com/LeekHub/leek-fund
+  [145]: #%E7%9B%AE%E5%BD%95

@@ -61,6 +61,7 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 |[Wallpaper Engine][80]|让你的桌面变“好看”！|付费|[Steam][81] \| [介绍][82]|
 |[Geek Uninstaller][83]|清理卸载残留文件，简洁易用|免费|[介绍][84]|
 |[Dism++][85]|系统备份、还原、清理开机密码，装机必备|免费 + 开源|[介绍][86]|
+|[火绒][145]|病毒查杀，访问控制，和弹窗说再见，装机必备|个人免费 + 企业付费|[介绍][145]|
 
 [*返回目录*][87]
 
@@ -262,3 +263,4 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
   [142]: https://github.com/aooiuu/z-reader
   [143]: https://github.com/LeekHub/leek-fund
   [144]: #%E7%9B%AE%E5%BD%95
+  [145]: https://www.huorong.cn/person5.html

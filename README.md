@@ -84,13 +84,14 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 |[Xshell][106]|非常优秀的终端软件，连接服务器必备|个人免费 + 商用付费|[讨论][107]|
 |[JetBrains 系列 IDE][108]|无论你处于什么技术栈，JetBrains 系列 IDE 几乎都是必不可少的|试用 + 付费 + 开源|[讨论][109]
 |[Visual Studio Code][110]|微软出品的轻量级代码编辑器，近年新兴编辑器中最优秀的一款|免费 + 开源|[评测][111]|
+|[CodelLobster][151]|方便的代码编辑器，特别支持许多流行的框架|免费|[教程][152]|
 |[Fiddler][112]|特别好用的 HTTP 抓包、篡改工具|免费|[介绍][113]|
 |[WinSCP][114]|开源免费而又功能强大的 FTP 客户端|开源 + 免费|[介绍][115]|
 |[FlashFXP][116]|老牌、功能强度大又易用的 FTP 客户端|试用 + 付费|[介绍][117]|
 |[AutoIt][118]|编程友好的键鼠屏自动化软件|免费 + 开源|[讨论][119]|
 |[Gpg4win][120]|Windows 平台上的完整 GPG 套件，包含 GUI|免费 + 开源|[介绍][121]|
 |[OpenHashTab][122]|资源管理器右键文件->属性，即可查看 MD5、SHA1 等各类 Hash|免费 + 开源|[介绍][123]|
-|[Cherry Studio][151]|支持国内外多款 AI 大语言模型的 GPT 客户端，支持快速的模型切换|免费 + 开源|[介绍][152]|
+|[Cherry Studio][153]|支持国内外多款 AI 大语言模型的 GPT 客户端，支持快速的模型切换|免费 + 开源|[介绍][154]|
 
 
 [*返回目录*][124]
@@ -272,5 +273,7 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
   [148]: https://duckduckstudio.github.io/yazicbs.github.io/Tools/Fufu_Tools/
   [149]: https://github.com/DuckDuckStudio/Fufu_Tools/blob/main/README.md
   [150]: https://duckduckstudio.github.io/yazicbs.github.io/Tools/Fufu_Tools/wiki/
-  [151]: https://easys.run/cherry-ai/
-  [152]: https://hao.logosc.cn/p/3748
+  [151]: https://codelobster.com/
+  [152]: https://blog.csdn.net/uw63zqpkxwlrl1/article/details/103502127
+  [153]: https://easys.run/cherry-ai/
+  [154]: https://hao.logosc.cn/p/3748

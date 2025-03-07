@@ -91,6 +91,7 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 |[AutoIt][118]|编程友好的键鼠屏自动化软件|免费 + 开源|[讨论][119]|
 |[Gpg4win][120]|Windows 平台上的完整 GPG 套件，包含 GUI|免费 + 开源|[介绍][121]|
 |[OpenHashTab][122]|资源管理器右键文件->属性，即可查看 MD5、SHA1 等各类 Hash|免费 + 开源|[介绍][123]|
+|[Cherry Studio][153]|支持国内外多款 AI 大语言模型的 GPT 客户端，支持快速的模型切换|免费 + 开源|[介绍][154]|
 
 
 [*返回目录*][124]
@@ -274,3 +275,5 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
   [150]: https://duckduckstudio.github.io/yazicbs.github.io/Tools/Fufu_Tools/wiki/
   [151]: https://codelobster.com/
   [152]: https://blog.csdn.net/uw63zqpkxwlrl1/article/details/103502127
+  [153]: https://easys.run/cherry-ai/
+  [154]: https://hao.logosc.cn/p/3748

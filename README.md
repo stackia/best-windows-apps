@@ -65,6 +65,7 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 |[Utools][146]|Windows软件启动器和多功能工具集合，类似Alfred|免费|[评测][147]|
 |[芙芙工具箱][148]|帮你简化重复操作的工具箱，让你不再手动操作费时费力|免费 + 开源|[介绍][149] \| [文档][150]|
 |[Cozy][155]|本地优先的私密日记，纯文本 Markdown 存储，数据始终留在自己的设备上，不上传服务器|付费|[官网][156]|
+|[薪跳 PayDance][157]|轻量优雅的「实时工资」小软件，根据用户的薪资和上下班时间动态计算每一秒的收入增长，让劳动时间价值变得可视化|免费 + 开源|[官网][158] \| [源码][159]|
 
 [*返回目录*][87]
 
@@ -280,3 +281,6 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
   [154]: https://hao.logosc.cn/p/3748
   [155]: https://cozyjournal.app
   [156]: https://cozyjournal.app
+  [157]: https://paydance.vercel.app
+  [158]: https://paydance.vercel.app
+  [159]: https://github.com/MrBaoboer/PayDance

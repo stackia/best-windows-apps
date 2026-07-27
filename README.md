@@ -30,6 +30,7 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 |[Snipaste][12]|可取代QQ/微信的强大截图工具，还能把截图当便利贴用|免费|[评测][13]|
 |[ShareX][14]|你要的所有与截图、录屏相关的功能，这里都有了|免费 + 开源|[Steam][15] \| [介绍][16]|
 |[Total Commander][17]|老牌、功能异常强大的文件管理增强软件|试用 + 付费|[评测][18] \| [中文教程][19]|
+|[OpenFiles][157]|在一个本地桌面工作台打开和编辑 350+ 种格式，覆盖文档、媒体、代码、Notebook、SQLite 与 CAD|闭源|[官网][158] \| [Microsoft Store][159]|
 |[Listary][20]|非常优秀的 Windows 文件浏览和搜索增强工具|免费 Lite + 付费 Pro|[评测][21]|
 |[Fluent Search][22]|又一款快速启动器，融合了 Windows 11 Fluent Design 风格|免费|[评测][23]|
 |[Krisp][24]|使用 AI 进行语音消噪，支持任何在线会议 App，增强线上会议沟通体验|免费 Lite + 付费 Pro|[介绍][25]|
@@ -280,3 +281,6 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
   [154]: https://hao.logosc.cn/p/3748
   [155]: https://cozyjournal.app
   [156]: https://cozyjournal.app
+  [157]: https://openfiles.pansysoft.app/
+  [158]: https://openfiles.pansysoft.app/
+  [159]: https://apps.microsoft.com/detail/9N34Z0HXDTGK

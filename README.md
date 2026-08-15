@@ -93,6 +93,7 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 |[Gpg4win][120]|Windows 平台上的完整 GPG 套件，包含 GUI|免费 + 开源|[介绍][121]|
 |[OpenHashTab][122]|资源管理器右键文件->属性，即可查看 MD5、SHA1 等各类 Hash|免费 + 开源|[介绍][123]|
 |[Cherry Studio][153]|支持国内外多款 AI 大语言模型的 GPT 客户端，支持快速的模型切换|免费 + 开源|[介绍][154]|
+|[DSH Studio][157]|用于安装、监控和管理 DeepSeek Harness 及本地 AI 编程工作流的跨平台桌面应用|免费 + 开源|[源码与下载][157]|
 
 
 [*返回目录*][124]
@@ -140,6 +141,7 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
   [14]: https://getsharex.com/
   [15]: https://store.steampowered.com/app/400040/
   [16]: https://www.appinn.com/sharex/
+  |[DSH Studio][157]|用于安装、监控和管理 DeepSeek Harness 及本地 AI 编程工作流的跨平台桌面应用|免费 + 开源|[源码与下载][157]|
   [17]: https://www.ghisler.com/
   [18]: https://www.zhihu.com/question/21616258
   [19]: https://xbeta.info/studytc/index.htm
@@ -280,3 +282,5 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
   [154]: https://hao.logosc.cn/p/3748
   [155]: https://cozyjournal.app
   [156]: https://cozyjournal.app
+
+[157]: https://github.com/Moresyl/dsh-studio

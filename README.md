@@ -64,6 +64,8 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 |[火绒][145]|病毒查杀，访问控制，和弹窗说再见，装机必备|个人免费 + 企业付费|[介绍][145]|
 |[Utools][146]|Windows软件启动器和多功能工具集合，类似Alfred|免费|[评测][147]|
 |[芙芙工具箱][148]|帮你简化重复操作的工具箱，让你不再手动操作费时费力|免费 + 开源|[介绍][149] \| [文档][150]|
+|[AI Novel Writer][157]|把角色、世界观、大纲、章节写作、审稿和修稿放进同一个项目，帮助作者管理长篇小说创作流程，并支持 Ollama|免费 + 开源|[下载][158]|
+|[InvoiceFlowAI][159]|从 QQ/163 邮箱批量收集 PDF/OFD/XML 发票，OCR 后分类归档并生成 Excel 汇总，低置信度结果留给人工复核|免费 + 开源|[下载][160]|
 |[Cozy][155]|本地优先的私密日记，纯文本 Markdown 存储，数据始终留在自己的设备上，不上传服务器|付费|[官网][156]|
 
 [*返回目录*][87]
@@ -280,3 +282,7 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
   [154]: https://hao.logosc.cn/p/3748
   [155]: https://cozyjournal.app
   [156]: https://cozyjournal.app
+  [157]: https://github.com/EthanYoQ/AI-Novel-Writer
+  [158]: https://github.com/EthanYoQ/AI-Novel-Writer/releases/latest
+  [159]: https://github.com/EthanYoQ/Invoice-Downloader
+  [160]: https://github.com/EthanYoQ/Invoice-Downloader/releases/latest
